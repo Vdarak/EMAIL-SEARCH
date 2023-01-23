@@ -1,0 +1,3 @@
+Use your own gmail id and password, replace username and password in the last line by your email id and password.
+if authentication error comes due to 2 factor login then you might need to generate an app password for that email
+you can choose any word you like and replace it with the word "Weekly" in the code and get your desired output, you can also change the count of number of emails you want to search
